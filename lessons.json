@@ -1,0 +1,21 @@
+{
+  "09122019":{
+    "name": "First lesson",
+    "owner": "Maria",
+    "description": "The first lesson is an animal.",
+    "image": "image/animals.png"
+  },
+  "10122019":{
+    "name": "Second lesson",
+    "owner": "Maria",
+    "description": "The second lesson is called names.",
+    "image": "image/names.png"
+  },
+  "11122019":{
+    "name": "Third lesson.",
+    "owner": "Maria",
+    "description": "The third lesson is called planet Earth.",
+    "image": "image/names.png"
+  }
+
+}
